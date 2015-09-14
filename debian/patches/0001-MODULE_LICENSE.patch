@@ -15,7 +15,7 @@ index f64496b..af3bea6 100644
  static void wl_report_radio_state(wl_info_t *wl);
  #endif
  
-+MODULE_LICENSE("MIXED/Proprietary");
++MODULE_LICENSE("GPL");
 +
  static struct pci_device_id wl_id_table[] =
  {
